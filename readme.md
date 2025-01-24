@@ -1,39 +1,28 @@
 
 
-This Power BI project analyzes the performance of an e-commerce business, focusing on key metrics such as revenue, orders, returns, and profit. The interactive dashboard provides actionable insights into customer behavior, product performance, and regional trends, helping stakeholders make informed decisions.
+**Overview**
+
+This Power BI project analyzes an e-commerce business's performance, focusing on key metrics like revenue, profit, customer behavior, and product performance. The interactive dashboard enables stakeholders to make data-driven decisions.
 
 **Key Features**
 
-Revenue Analysis: Total revenue of ₹24.9M with detailed monthly trends and comparisons.
+- Revenue and profit analysis with trends and targets.
+  
+- Order and return rate tracking.
+  
+- Product-level insights, including top-selling and high-return items.
+  
+- Customer segmentation by income and occupation.
+  
+- Regional performance analysis by country and continent.
 
-Profit Insights: Total profit of ₹10.5M, with profit trending up over time.
+**How to Use**
+1. Download the `.pbix` file and open it in Power BI Desktop.
+   
+2. Use filters and drill-through options to explore the data interactively.
+   
+3. Refer to `results.md` for detailed insights and analysis.
 
-**Order Analysis:**
+4. You can also see it in pdf form in project.pdf
 
-Total orders: 25,164.
 
-Return rate: 2.2%.
-
-Monthly order trends compared to targets.
-
-**Product Performance:**
-
-Most ordered product type: Tires and Tubes.
-
-Most returned product type: Shorts.
-
-Top-selling product: Water Bottle (30 oz) with 3,983 orders.
-
-Products with the highest return rates: Sport-100 Helmet (Red) at 3.33%.
-
-**Customer Insights:**
-
-Unique customers: 17.4K.
-
-Revenue per customer: ₹1.4K.
-
-Top customer by revenue: Mr. Maurice Shan with ₹12.4K from 6 orders.
-
-**Regional Trends:**
-
-Highest-performing regions: United States, Australia, and Canada.
